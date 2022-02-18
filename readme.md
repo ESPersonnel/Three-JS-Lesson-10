@@ -1,5 +1,8 @@
 # Three.js Journey
 
+# lil-gui setup
+Similar to dat.GUI, it has similar functionalities for debugging your page.
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
